@@ -56,7 +56,7 @@ const About = () => {
             <p>
               Eagerness to {' '}
               <br className='hidden xxsm:block xsm:hidden' /> harness my diverse skillset{' '}
-              <br className='hidden xsm:block sm:hidden' /> I'm driven to 
+              <br className='hidden xsm:block sm:hidden' /> I&apos;m driven to 
               the future of machine learning <br className='hidden lg:block' /> From crafting innovative AI solutions to {' '}
               <br className='hidden xxsm:block xsm:hidden' />to managing large-scale events{' '}
               <br className='hidden lg:block' /> I am committed to making a meaningful impact.{''}
